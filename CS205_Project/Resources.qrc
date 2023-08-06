@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>logo.jpg</file>
+        <file>fish-logo.png</file>
+        <file>wind-wave-cartoon-water-waves-6e912dfb99f8506682a88de1e14af64b.png</file>
+        <file>kindpng_1973521.png</file>
+        <file>clipart4449882.png</file>
+        <file>admin.png</file>
+        <file>clipart4273239.png</file>
+        <file>NicePng_png-ballons_4121775.png</file>
+        <file>friends.png</file>
+    </qresource>
+</RCC>
