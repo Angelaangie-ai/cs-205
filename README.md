@@ -10,5 +10,6 @@ The first page you see after you select your preferences is the home page. Using
 
 The second page you can go through the home page, is the chat page.
 
-
 ![Image 8-5-23 at 7 21 PM](https://github.com/Angelaangie-ai/cs-205/assets/64707998/cb21f6b1-2c79-4e40-b231-abf8ce07d9c5)
+
+Here is the final presentation for more information: https://docs.google.com/presentation/d/1xQxG3Dr8f9ngfdN2HijKnRWdkE-HTxC3kjR-pgXWCI4/edit?usp=sharing
